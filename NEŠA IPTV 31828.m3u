@@ -1,8 +1,8 @@
 
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_RS.xml"
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/nebojsa68/IPTV/blob/main/logoi/SRBIJA/RTS_SVET.png?raw=true" group-title="Srbski kanal",RTS Svet NEŠA IPTV
+#EXTINF:-1 tvg-id="" tvg-name="RTS Svet" tvg-logo="https://github.com/nebojsa68/IPTV/blob/main/logoi/SRBIJA/RTS_SVET.png?raw=true" group-title="Srbski kanal",RTS Svet NEŠA IPTV
 http://android.mediaking.fi:8080/live/lana_kajtaz@hotmail.com/lana7643/1882.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/nebojsa68/IPTV/blob/main/logoi/SRBIJA/RTS_1.png?raw=true" group-title="Srbski kanal",RTS 1 FHD NEŠA IPTV
