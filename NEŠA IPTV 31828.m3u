@@ -1,5 +1,5 @@
 
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_RS.xml"
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RTS Svet" tvg-logo="https://github.com/nebojsa68/IPTV/blob/main/logoi/SRBIJA/RTS_SVET.png?raw=true" group-title="Srbski kanal",RTS Svet NEŠA IPTV
@@ -98,7 +98,7 @@ http://android.mediaking.fi:8080/live/lana_kajtaz@hotmail.com/lana7643/63.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Pink Folk 1" tvg-logo="https://github.com/nebojsa68/IPTV/blob/main/logoi/MUZIKA/PINK_%20FOLK%20_1.jpg?raw=true" group-title="Muzički kanal",Pink Folk 1 FHD NEŠA IPTV
-http://android.mediaking.fi:8080/live/lana_kajtaz@hotmail.com/lana7643/2754.ts
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:F5:CE:D1&stream=559367&extension=ts&play_token=0LtTjQP3Fe
 
 #EXTINF:-1 tvg-id="" tvg-name="Pink Folk 2" tvg-logo="https://github.com/nebojsa68/IPTV/blob/main/logoi/MUZIKA/PINK_%20FOLK%20_2.jpg?raw=true" group-title="Muzički kanal",Pink Folk 2 FHD NEŠA IPTV
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:F5:CE:D1&stream=559367&extension=ts&play_token=0LtTjQP3Fe
